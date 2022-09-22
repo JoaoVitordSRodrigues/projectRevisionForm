@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appRevisao</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="title">Tela de Cadastro</string>
+    <string name="title2">Tela de resposta</string>
+    <string name="btnConfirmar">Confirmar</string>
+</resources>
